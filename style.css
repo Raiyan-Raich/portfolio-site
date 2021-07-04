@@ -1,0 +1,38 @@
+.cursive-h1{
+    font-family: 'Festive', cursive;
+font-weight: 600;
+font-size: 60px;
+height: auto;
+width: auto;
+color: aqua;
+}
+
+#a{
+    color: lime;
+}
+
+.a{
+    color: lime;
+    font-size: 30pxS;
+}
+
+
+#b{
+    text-align: center;
+    width: 50%;
+}
+
+#c{
+    
+}
+#d{
+    padding-right: 5%;
+    width: 25%;
+}
+#e{
+    padding-left: 5%;
+ width: 25%;   
+}
+#f{
+    display: flex;
+}
